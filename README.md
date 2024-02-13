@@ -22,6 +22,15 @@ It is an Angular single-page application (SPA) that allows users to input a GitH
 
 Run `ng serve` for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 
+## Error Handling
+
+If you are encountering some errors try below commands in order:
+
+1. npm cache clean --force
+2. npm install --force
+3. npm fund
+4. ng serve
+
 ## Further help
 
 Visit the [Angular Documentation](https://angular.io/guide/styleguide) to learn more.
